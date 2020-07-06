@@ -1,0 +1,5 @@
+C:\Users\Titan\Desktop\My Examples\TemplateMethodPattern\TemplateMethodLib\bin\Debug\TemplateMethodLib.dll
+C:\Users\Titan\Desktop\My Examples\TemplateMethodPattern\TemplateMethodLib\bin\Debug\TemplateMethodLib.pdb
+C:\Users\Titan\Desktop\My Examples\TemplateMethodPattern\TemplateMethodLib\obj\Debug\TemplateMethodLib.dll
+C:\Users\Titan\Desktop\My Examples\TemplateMethodPattern\TemplateMethodLib\obj\Debug\TemplateMethodLib.pdb
+C:\Users\Titan\Desktop\My Examples\TemplateMethodPattern\TemplateMethodLib\obj\Debug\TemplateMethodLib.csprojResolveAssemblyReference.cache

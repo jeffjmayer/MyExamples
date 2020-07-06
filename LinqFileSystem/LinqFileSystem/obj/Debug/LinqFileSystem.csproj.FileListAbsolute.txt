@@ -1,0 +1,5 @@
+C:\Users\Titan\Desktop\My Examples\LinqFileSystem\LinqFileSystem\bin\Debug\LinqFileSystem.exe
+C:\Users\Titan\Desktop\My Examples\LinqFileSystem\LinqFileSystem\bin\Debug\LinqFileSystem.pdb
+C:\Users\Titan\Desktop\My Examples\LinqFileSystem\LinqFileSystem\obj\Debug\LinqFileSystem.csprojResolveAssemblyReference.cache
+C:\Users\Titan\Desktop\My Examples\LinqFileSystem\LinqFileSystem\obj\Debug\LinqFileSystem.exe
+C:\Users\Titan\Desktop\My Examples\LinqFileSystem\LinqFileSystem\obj\Debug\LinqFileSystem.pdb

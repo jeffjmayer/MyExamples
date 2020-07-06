@@ -1,0 +1,5 @@
+C:\Users\jmayer\Desktop\My Examples\ThumbnailLib\obj\Debug\ThumbnailLib.csprojResolveAssemblyReference.cache
+C:\Users\jmayer\Desktop\My Examples\ThumbnailLib\bin\Debug\ThumbnailLib.dll
+C:\Users\jmayer\Desktop\My Examples\ThumbnailLib\bin\Debug\ThumbnailLib.pdb
+C:\Users\jmayer\Desktop\My Examples\ThumbnailLib\obj\Debug\ThumbnailLib.dll
+C:\Users\jmayer\Desktop\My Examples\ThumbnailLib\obj\Debug\ThumbnailLib.pdb
