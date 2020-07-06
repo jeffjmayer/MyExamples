@@ -9,3 +9,14 @@ C:\Users\jmayer\Desktop\My Examples\Polymorphism - refactored to real world\Form
 C:\Users\jmayer\Desktop\My Examples\Polymorphism - refactored to real world\FormsApplication\obj\Debug\FormsApplication.csproj.GenerateResource.Cache
 C:\Users\jmayer\Desktop\My Examples\Polymorphism - refactored to real world\FormsApplication\obj\Debug\FormsApplication.exe
 C:\Users\jmayer\Desktop\My Examples\Polymorphism - refactored to real world\FormsApplication\obj\Debug\FormsApplication.pdb
+C:\Users\Titan\Desktop\WorkDir\MyExamples\Polymorphism - refactored to real world\FormsApplication\bin\Debug\FormsApplication.exe.config
+C:\Users\Titan\Desktop\WorkDir\MyExamples\Polymorphism - refactored to real world\FormsApplication\obj\Debug\FormsApplication.exe
+C:\Users\Titan\Desktop\WorkDir\MyExamples\Polymorphism - refactored to real world\FormsApplication\obj\Debug\FormsApplication.pdb
+C:\Users\Titan\Desktop\WorkDir\MyExamples\Polymorphism - refactored to real world\FormsApplication\bin\Debug\FormsApplication.exe
+C:\Users\Titan\Desktop\WorkDir\MyExamples\Polymorphism - refactored to real world\FormsApplication\bin\Debug\FormsApplication.pdb
+C:\Users\Titan\Desktop\WorkDir\MyExamples\Polymorphism - refactored to real world\FormsApplication\bin\Debug\ThumbnailLib.dll
+C:\Users\Titan\Desktop\WorkDir\MyExamples\Polymorphism - refactored to real world\FormsApplication\bin\Debug\ThumbnailLib.pdb
+C:\Users\Titan\Desktop\WorkDir\MyExamples\Polymorphism - refactored to real world\FormsApplication\obj\Debug\FormsApplication.csprojResolveAssemblyReference.cache
+C:\Users\Titan\Desktop\WorkDir\MyExamples\Polymorphism - refactored to real world\FormsApplication\obj\Debug\FormsApplication.Form1.resources
+C:\Users\Titan\Desktop\WorkDir\MyExamples\Polymorphism - refactored to real world\FormsApplication\obj\Debug\FormsApplication.Properties.Resources.resources
+C:\Users\Titan\Desktop\WorkDir\MyExamples\Polymorphism - refactored to real world\FormsApplication\obj\Debug\FormsApplication.csproj.GenerateResource.Cache

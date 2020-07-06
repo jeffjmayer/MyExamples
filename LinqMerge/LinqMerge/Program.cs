@@ -15,6 +15,11 @@ namespace LinqMerge
 
             var fullNames = MergeNames(firstNames, lastNames, AmericanStyleFullName);
 
+            foreach (var fullName in fullNames)
+            {
+                Console.WriteLine(fullName);
+            }
+            
             Console.ReadLine();
 
         }

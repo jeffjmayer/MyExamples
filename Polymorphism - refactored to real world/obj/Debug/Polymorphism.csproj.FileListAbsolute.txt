@@ -11,3 +11,11 @@ C:\Users\jmayer\Desktop\My Examples\Polymorphism - refactored to real world\bin\
 C:\Users\jmayer\Desktop\My Examples\Polymorphism - refactored to real world\bin\Debug\ThumbnailLib.dll
 C:\Users\jmayer\Desktop\My Examples\Polymorphism - refactored to real world\bin\Debug\ThumbnailLib.pdb
 C:\Users\jmayer\Desktop\My Examples\Polymorphism - refactored to real world\obj\Debug\Polymorphism.csprojResolveAssemblyReference.cache
+C:\Users\Titan\Desktop\WorkDir\MyExamples\Polymorphism - refactored to real world\bin\Debug\Polymorphism.exe.config
+C:\Users\Titan\Desktop\WorkDir\MyExamples\Polymorphism - refactored to real world\obj\Debug\Polymorphism.exe
+C:\Users\Titan\Desktop\WorkDir\MyExamples\Polymorphism - refactored to real world\obj\Debug\Polymorphism.pdb
+C:\Users\Titan\Desktop\WorkDir\MyExamples\Polymorphism - refactored to real world\bin\Debug\Polymorphism.exe
+C:\Users\Titan\Desktop\WorkDir\MyExamples\Polymorphism - refactored to real world\bin\Debug\Polymorphism.pdb
+C:\Users\Titan\Desktop\WorkDir\MyExamples\Polymorphism - refactored to real world\bin\Debug\ThumbnailLib.dll
+C:\Users\Titan\Desktop\WorkDir\MyExamples\Polymorphism - refactored to real world\bin\Debug\ThumbnailLib.pdb
+C:\Users\Titan\Desktop\WorkDir\MyExamples\Polymorphism - refactored to real world\obj\Debug\Polymorphism.csprojResolveAssemblyReference.cache
