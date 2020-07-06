@@ -3,3 +3,5 @@ C:\Users\Titan\Desktop\My Examples\StreamingAndIterators\StreamingAndIterators\b
 C:\Users\Titan\Desktop\My Examples\StreamingAndIterators\StreamingAndIterators\obj\Debug\StreamingAndIterators.csprojResolveAssemblyReference.cache
 C:\Users\Titan\Desktop\My Examples\StreamingAndIterators\StreamingAndIterators\obj\Debug\StreamingAndIterators.exe
 C:\Users\Titan\Desktop\My Examples\StreamingAndIterators\StreamingAndIterators\obj\Debug\StreamingAndIterators.pdb
+C:\Users\Titan\Desktop\WorkDir\MyExamples\StreamingAndIterators\StreamingAndIterators\obj\Debug\StreamingAndIterators.exe
+C:\Users\Titan\Desktop\WorkDir\MyExamples\StreamingAndIterators\StreamingAndIterators\obj\Debug\StreamingAndIterators.pdb
